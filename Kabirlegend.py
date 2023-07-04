@@ -302,7 +302,7 @@ sp("\033[1m\033[36m[ ðŸ˜ˆ ] M3R3 K9B1R B9BU GM9IL D9L0 \n")
 
 print(47*'\033[1;35;40m-')
 
-USERNAME = str(input('[ ðŸ˜¢ ] EMAIL LIKH MADARCHOD  : '))
+USERNAME = str(input('[ ðŸ˜¢ ] EMAIL LIKHO KABIR BABU  : '))
 
 print("\033[1;33;40m", end = "")
 
